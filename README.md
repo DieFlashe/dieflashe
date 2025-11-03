@@ -55,4 +55,3 @@ Besonders nach einem Wechsel zwischen den x86 und x64 Versionen wodurch sich der
  - [Releases](https://github.com/DieFlashe/dieflashe/releases)
  - [Github](https://github.com/DieFlashe/)
 
-
