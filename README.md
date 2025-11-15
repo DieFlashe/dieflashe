@@ -54,5 +54,6 @@ Besonders nach einem Wechsel zwischen den x86 und x64 Versionen wodurch sich der
  - [Features](FEATURES.md)
  - [Changelog](CHANGELOG.md)
  - [Releases](https://github.com/DieFlashe/dieflashe/releases)
+ - [Discussions](https://github.com/orgs/DieFlashe/discussions)
  - [Github](https://github.com/DieFlashe/)
 
