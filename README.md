@@ -16,8 +16,10 @@ Bei Unsicherheit bitte einfach nicht installieren.
 
 ### Datenübertragung
 Falls Datenübertragungen aktiviert wurden, werden anonymisierte Environments übertragen die bei der Weiterentwicklung helfen.
-Sie können im Upload-Verzeichnis vorab eingesehen werden.
-Da diese nicht zuordenbar sind ist keine Auskunft oder Löschung möglich und es wird darauf verzichtet.
+So werden sie von Zeit zu Zeit zum Beispiel Emulia hinzugefügt.
+Sie können im Upload-Verzeichnis vorab eingesehen und mit denen im Environments-Verzeichnis verglichen werden.
+Da diese anonymisiert und nicht zuordenbar sind ist keine Auskunft oder Löschung möglich und es wird darauf verzichtet.
+Vielen Dank für's Teilen!
 
 ### Firewall
 Bei Verbindungsproblemen sollte die Windows-Firewall im Startmenü mit 'Firewall konfigurieren' für alle IP-Bereiche und Profile konfiguriert werden.
