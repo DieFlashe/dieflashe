@@ -23,6 +23,7 @@
  - Die Zielpartition (linux_fs_start) des Flashens ist auswählbar
  - Die Unterstürzung von Coldflash (avm_fwupdate) ist aktivierbar
  - Die Übertragungsrate des Flashvorganges wird angezeigt
+ - Die Logausgabe ist bei vergrößertem Programmfenster sichtbar
  - Im Datenverzeichnis werden alle Logdateien gespeichert
  - Es werden auch alle ausgelesenen Environments gespeichert
  - Ausserdem werden alle anonymisierten Environments gespeichert
