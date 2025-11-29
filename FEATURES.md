@@ -1,7 +1,7 @@
 # Features
 
  - Flashtool für Geräte von FRITZ! aka AVM.
- - Unterstützung von allen Geräten ausser Cable
+ - Flash-Unterstützung von allen Geräten ausser Cable
  - Über eine Suche das Gerät beim Bootvorgang finden
  - Das Gerät beim Bootvorgang im Bootloader anhalten
  - Den Environment- und Counter-Inhalt wird angezeigt
