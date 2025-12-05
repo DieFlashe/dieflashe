@@ -1,7 +1,7 @@
 # Features
 
  - Flashtool für Geräte von FRITZ! aka AVM.
- - Flash-Unterstützung von allen Geräten ausser Cable
+ - Flash-Unterstützung von allen Geräten außer Cable mit Docsis 3.1
  - Über eine Suche das Gerät beim Bootvorgang finden
  - Das Gerät beim Bootvorgang im Bootloader anhalten
  - Den Environment- und Counter-Inhalt wird angezeigt
@@ -26,6 +26,6 @@
  - Die Logausgabe ist bei vergrößertem Programmfenster sichtbar
  - Im Datenverzeichnis werden alle Logdateien gespeichert
  - Es werden auch alle ausgelesenen Environments gespeichert
- - Ausserdem werden alle anonymisierten Environments gespeichert
+ - Außerdem werden alle anonymisierten Environments gespeichert
  - Das Programm ist lokalisiert in deutsch und in englisch
 
