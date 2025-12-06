@@ -38,8 +38,8 @@ Besonders nach einem Wechsel zwischen den x86 und x64 Versionen wodurch sich der
  - Die wenigsten Variablen sollten geändert werden werden.
  - firmware_version: Das Branding ('avm', 'avme', '1und1', ...).
  - firmware_info: Der Zusatz ',recovered=1' löscht das NAS.
- - linux_fs_start: Die Bootpartition ('0' oder '1').
- - provider: Provider-Additive ('additive' oder existiert nicht). Kein Recovery verwendbar falls Additive aktiviert sind.
+ - linux_fs_start: Die Bootpartition ('0' oder '1'). Existiert nicht nach einem Recovery und lädt '0'.
+ - provider: Provider-Additive (Dateiname oder existiert nicht). Kein Recovery verwendbar falls Additive aktiviert sind.
  - DMC: Retailgerät (existiert nicht, 'RTL=y', 'RTL=y,SL1', ...). Keine Updates möglich falls als nicht-Retailgerät gesetzt.
 
 ### Versionen
