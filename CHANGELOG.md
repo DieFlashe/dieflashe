@@ -1,5 +1,13 @@
 # Changelog
 
+### 1.2605.0.0 - ???
+ - Flashen von Cable mit Docsis 3.0
+ - Kolorierte MessageBoxen hinzugefügt
+ - Korrektur der Generationen-Anzeige
+ - Geräte-Daten aktualisiert
+ - Robustere Signaturprüfung
+ - Diverse weitere Verbesserungen
+
 ### 1.2603.0.0 - 2025-11-03
  - Probleme mit Datumsumwandlung unter Windows 7 behoben
  - Größe der Label angepasst
