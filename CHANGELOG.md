@@ -2,7 +2,7 @@
 
 ### 1.2605.0.0 - ???
  - Flashen von Cable mit Docsis 3.0
- - Kolorierte MessageBoxen hinzugefügt
+ - Kolorierte und übersetzte MessageBoxen hinzugefügt
  - Korrektur der Generationen-Anzeige
  - Geräte-Daten aktualisiert
  - Robustere Signaturprüfung
