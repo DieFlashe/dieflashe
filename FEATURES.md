@@ -29,7 +29,7 @@
  - Außerdem werden alle anonymisierten Environments gespeichert
  - Das Programm ist lokalisiert in deutsch und in englisch
 
-## Was DieFlashe nicht macht
+### Was DieFlashe nicht macht
  - Ein Update des Bootloaders
  - Einen Werksreset durchführen
 
