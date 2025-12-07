@@ -1,7 +1,7 @@
 # Features
 
  - Flashtool für Geräte von FRITZ! aka AVM.
- - Flash-Unterstützung von allen Geräten außer Cable
+ - Flash-Unterstützung von allen Geräten außer Cable mit Docsis 3.1
  - Über eine Suche das Gerät beim Bootvorgang finden
  - Das Gerät beim Bootvorgang im Bootloader anhalten
  - Den Environment- und Counter-Inhalt wird angezeigt
@@ -32,5 +32,4 @@
 ## Was DieFlashe nicht macht
  - Ein Update des Bootloaders
  - Einen Werksreset durchführen
- 
- 
+
