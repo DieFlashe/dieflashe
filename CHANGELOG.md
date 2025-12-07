@@ -7,6 +7,7 @@
  - Korrektur der Generationen-Anzeige
  - Geräte-Daten aktualisiert
  - Robustere Signaturprüfung
+ - Release für .Net 10 LTS (ab Windows 10 x64)
  - Diverse weitere Verbesserungen
 
 ### 1.2603.0.0 - 2025-11-03
