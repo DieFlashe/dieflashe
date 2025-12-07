@@ -1,7 +1,7 @@
 # Changelog
 
 ### 1.2605.0.0 - ???
- - Flashen von Cable mit Docsis 3.0
+ - Flashen von Cable-Geräten mit Docsis 3.0
  - Kolorierte und übersetzte MessageBoxen hinzugefügt
  - Korrektur der Generationen-Anzeige
  - Geräte-Daten aktualisiert
