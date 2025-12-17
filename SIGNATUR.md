@@ -18,5 +18,5 @@ Später bei der Firmware-Prüfung wird der Dateiname in der Statusbar angezeigt.
    befindet sich der Key auf dem Gerät in `/etc/avm_firmware_public_key8`
    und auf dem Build-System in `freetz-ng/.signature/pub`.
 
-Fehlende Signatur-Schlüssel können gerne inklusive Firmware-Name reported werden.
+Fehlende öffentliche Signatur-Keys können gerne inklusive Firmware-Name reported werden.
 
