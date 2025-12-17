@@ -16,7 +16,7 @@
  - Die zu verwendende Netzwerkkarte kann ausgewählt werden
  - Die zu nutzende freie IP kann festgelegt werden
  - Die Signatur einer Firmware kann validiert werden
- - Für die Signaturprüfung können eigene Keys verwendet werden
+ - Für die Signaturprüfung können [eigene Keys](SIGNATUR.md) verwendet werden
  - Fehler in der Struktur der Firmware werden angezeigt
  - Die Modifikationen Freetz und Freetz-NG werden erkannt
  - Der verfügbare Arbeitsspeicher (memsize) ist begrenzbar
