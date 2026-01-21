@@ -1,5 +1,12 @@
 # Changelog
 
+### 1.2606.0.0
+ - Environment-Variablen werden beim Schreiben getrimmt
+ - Verschieden Tooltips hinzugefügt
+ - Verbesserte Kompatibilität mit Emulia
+ - Versionsprüfung maximal alle 24 Stunden
+ - Geräte-Daten aktualisiert
+
 ### 1.2605.0.0 - 2025-12-07
  - Flashen von Cable-Geräten mit Docsis 3.0
  - Kolorierte und übersetzte MessageBoxen hinzugefügt
