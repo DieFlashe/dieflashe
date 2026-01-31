@@ -1,6 +1,6 @@
 # Changelog
 
-### 1.2606.0.0
+### 1.2606.0.0 - 2026-01-31
  - Environment-Variablen werden beim Schreiben getrimmt
  - Verschieden Tooltips hinzugefügt
  - Verbesserte Kompatibilität mit Emulia
