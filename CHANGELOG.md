@@ -1,5 +1,8 @@
 # Changelog
 
+### 1.2700.0.0 - 2026-02-03
+ - Signatur bei Versionsprüfung
+
 ### 1.2606.0.0 - 2026-01-31
  - Environment-Variablen werden beim Schreiben getrimmt
  - Verschieden Tooltips hinzugefügt
