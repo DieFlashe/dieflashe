@@ -29,7 +29,7 @@ Besonders nach einem Wechsel zwischen den x86 und x64 Versionen wodurch sich der
  - Der Bootloader unterstützt nur die native Netzwerk-Geschwindigkeit, also keine 100Mbit am 1Gbit-Port.
  - Ein zusätzlicher Switch zwischen den Geräten hilft auch bei Problemen mit Media-Sense von Windows.
  - IPv6 wird vom Bootloader nicht unterstützt und wird ignoriert.
- - Eine statische IPv4 kann Verbindungsprobleme beheben.
+ - Eine statische IPv4 für den Computer kann Verbindungsprobleme beheben.
  - Der IPv4-Gateway und -DNS sind überflüssig und werden ignoriert falls sie gesetzt sind.
  - Jede beliebige IP ist nutzbar, nicht nur die aus dem Bereich 192.168.178.1/24.
 
