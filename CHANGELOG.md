@@ -1,5 +1,11 @@
 # Changelog
 
+### 1.2701.0.0 - 2026-03-20
+ - Release nicht mehr für .Net 8 und .Net 9
+ - Geräte-Daten aktualisiert
+ - Reboot-Timing verbessert
+ - Diverse interne Verbesserungen
+
 ### 1.2700.0.0 - 2026-02-03
  - Signatur bei Versionsprüfung
 
