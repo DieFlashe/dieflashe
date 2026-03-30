@@ -34,8 +34,9 @@ Besonders nach einem Wechsel zwischen den x86 und x64 Versionen wodurch sich der
  - Jede beliebige IP ist nutzbar, nicht nur die aus dem Bereich 192.168.178.1/24.
 
 ### Environment
- - Manche Variablen können nicht geändert werden werden.
- - Die wenigsten Variablen sollten geändert werden werden.
+ - Manche Variablen werden nach einem Neustart zurückgesetzt.
+ - Andere Variablen können nicht geändert werden werden.
+ - Die wenigsten Variablen sollten geändert werden werden!
  - firmware_version: Das Branding ('avm', 'avme', '1und1', ...).
  - firmware_info: Der Zusatz ',recovered=1' löscht das NAS.
  - linux_fs_start: Die Bootpartition ('0' oder '1'). Existiert nicht nach einem Recovery und lädt '0'.
