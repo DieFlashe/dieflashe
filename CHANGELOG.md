@@ -1,5 +1,10 @@
 # Changelog
 
+### 1.2702.0.0 - 2026-04-16
+ - Sortierung der Environments nach AVM-Art
+ - Environment-Hinweise erweitert
+ - Weitere interne Verbesserungen
+
 ### 1.2701.0.0 - 2026-03-20
  - Release nicht mehr für .Net 8 und .Net 9
  - Geräte-Daten aktualisiert
