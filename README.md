@@ -45,8 +45,6 @@ Besonders nach einem Wechsel zwischen den x86 und x64 Versionen wodurch sich der
 
 ### Versionen
  - Die .Net 6 LTS Version benötigt Windows ab 7.
- - Die .Net 8 LTS Version benötigt Windows x64 ab 10.
- - Die .Net 9 Version benötigt Windows x64 ab 10.
  - Die .Net 10 LTS Version benötigt Windows x64 ab 10.
 
 ### Installation
