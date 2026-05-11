@@ -1,5 +1,9 @@
 # Changelog
 
+### 1.2703.0.0 - 2026-05-11
+ - Mehr Environment-Variablen werden anonymisiert statt entfernt
+ - Geräte-Daten aktualisiert
+
 ### 1.2702.0.0 - 2026-04-16
  - Sortierung der Environments nach AVM-Art
  - Environment-Hinweise erweitert
