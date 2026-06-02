@@ -44,7 +44,7 @@ Besonders nach einem Wechsel zwischen den x86 und x64 Versionen wodurch sich der
  - DMC: Retailgerät (existiert nicht, 'RTL=y', 'RTL=y,SL1', ...). Keine Updates möglich falls als nicht-Retailgerät gesetzt.
 
 ### Versionen
- - Die .Net 6 LTS Version benötigt Windows ab 7.
+ - Die .Net 6 Version (EOL) benötigt Windows x86 ab 7.
  - Die .Net 10 LTS Version benötigt Windows x64 ab 10.
 
 ### Installation
