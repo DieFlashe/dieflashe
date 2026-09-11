@@ -47,7 +47,7 @@ Besonders nach einem Wechsel zwischen den x86 und x64 Versionen wodurch sich der
  - Die .Net 6 Version (EOL) benötigt Windows x86 ab 7.
  - Die .Net 10 LTS Version benötigt Windows x64 ab 10.
 
-Empfohlen ist die x64 Version da diese keine RAM-Beschränkung aufweist.
+Empfohlen ist die x64-Version da diese keine RAM-Beschränkung aufweist.
 
 ### Installation
  - Mit der `setup.exe` aus der `.zip` wird falls nötig .Net automatisch heruntergeladen und installiert.
