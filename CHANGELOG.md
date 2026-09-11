@@ -1,5 +1,9 @@
 # Changelog
 
+### 1.2704.0.0 - 2026-09-11
+ - Geräte-Daten aktualisiert
+ - Verschiedene interne Verbesserungen
+
 ### 1.2703.0.0 - 2026-05-11
  - Mehr Environment-Variablen werden anonymisiert statt entfernt
  - Geräte-Daten aktualisiert
