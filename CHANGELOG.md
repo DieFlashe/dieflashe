@@ -1,5 +1,9 @@
 # Changelog
 
+### 1.2705.0.0 - 2026-09-22
+ - Tooltips für Firmware-Dateien
+ - Geräte-Daten aktualisiert
+
 ### 1.2704.0.0 - 2026-09-11
  - Geräte-Daten aktualisiert
  - Verschiedene interne Verbesserungen
