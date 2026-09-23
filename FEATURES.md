@@ -34,5 +34,5 @@
  - Flashen von Geräten mit Docsis 3.1 (6591, 6660, 6670, 6690 und 6690 Pro)
  - Flashen von Geräten mit Kernel 2.4, ein AVM-Update aktualisiert das Flash-Layout
  - Ein Update des Bootloaders
- - Einen Werksreset durchführen
+ - Einen Werksreset durchführen oder die Benutzerkonfiguration ändern
 
