@@ -1,5 +1,8 @@
 # Changelog
 
+### 1.2707.0.0 - 2026-09-23
+ - Fehler in letztem Release behoben
+
 ### 1.2706.0.0 - 2026-09-23
  - Weitere Übersetzungen hinzugefügt
 
